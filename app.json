@@ -1,0 +1,8 @@
+{
+  "name": "Hello World",
+  "description": "A hello world app for heroku in Node.js",
+  "repository": "",
+  "logo": "",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
